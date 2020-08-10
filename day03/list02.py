@@ -4,11 +4,11 @@ print(superheroes)
 superheroes.append('captain america')
 print(superheroes)
 
-deleted =  superheroes.pop()
+d =  superheroes.pop()
 superheroes.remove('joker')
 print(superheroes)
 
-print(deleted)
+print(d)
 
 del superheroes[2]
 print(superheroes)
