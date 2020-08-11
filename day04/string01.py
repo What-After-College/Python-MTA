@@ -20,10 +20,20 @@ superheroes = ['batman', 'superman', 'flash', 'joker', 'iron man', 'captain', 'a
 # print(superheroes[-2])
 # print(superheroes[::-1])
 
-# c = a[0].upper()+a[1:]
+# c = a[0].upper() + a[1:]
 
 # print(c)
 
-s1 = 'hello'
-s1 = s1 + ' world'
-print(s1)
+# s1 = 'hello'
+# s1 = s1 + ' world'
+# print(s1)
+
+
+# p = 'python is Easy'
+
+# # print(p.find('i'))
+
+# print(superheroes.index('joker'))
+# print(p.index('i'))
+
+#   jhon doe ====> Jhon Doe
