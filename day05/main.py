@@ -1,3 +1,3 @@
-from print_word import wordPrinter # *
+import random_word_generator
 
-wordPrinter('appledfsadf')
+print(random_word_generator.pick_random_word())
